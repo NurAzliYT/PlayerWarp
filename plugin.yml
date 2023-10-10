@@ -1,0 +1,15 @@
+name: PlayerWarp
+main: NurAzliYT\PlayerWarp\Main
+authors: [FiraAja, NurAzliYT]
+api: 5.0.0
+version: 1.0.0
+description: "plugin ini bukan punya NurAzliYT"
+commands:
+ playerwarp:
+  description: "Playerwarp Command"
+  aliases: ["pwarp"]
+  permission: playerwarp.cmd
+  
+permissions:
+ playerwarp.cmd:
+  default: true
